@@ -96,6 +96,8 @@ section{
     border-radius: 50%;
     margin-left: 2rem;
     box-shadow: 0 0 1rem var(--main-color);
+    padding-right: 2rem;
+    transition: 0.1s;
 }
 
 .home-content h3{
@@ -125,7 +127,7 @@ section{
     font-size: 2rem;
     color: var(--main-color);
     margin: 3rem 1.5rem 3rem 0;
-    transition: 0.5s ease;
+    transition: 0.2s ease;
 }
 
 .social-media a:hover{
